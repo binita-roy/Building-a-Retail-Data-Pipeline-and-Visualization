@@ -76,8 +76,9 @@ The project uses a **star schema** in Snowflake, comprising:
 ## **⚙️ How to Reproduce**
 
 ### **1. Clone the Repository**
+```bash
 git clone https://github.com/binita-roy/Building-a-Retail-Data-Pipeline-and-Visualization.git
-
+```
 ## **2. Set Up Snowflake**
 - **Create a Snowflake database and schema** based on the provided SQL scripts.
 - **Load the transformed data** into Snowflake using Python ETL scripts.
@@ -122,7 +123,7 @@ The ETL process is automated using Python scripts:
 ├── PowerBI/                  # Power BI Dashboard file (.pbix)
 ├── SQL/                      # SQL scripts for Snowflake schema and queries
 ├── README.md                 # Project documentation
-
+````
 
 ## **🔗 Key Resources**
 - **Kaggle Dataset**: [Walmart Sales Data](https://www.kaggle.com/datasets/rutuspatel/walmart-dataset-retail)
