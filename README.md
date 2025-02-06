@@ -16,7 +16,7 @@ The Walmart Sales Analytics project demonstrates the following:
 
 ## **📊 Dashboard Features**
 
-![Dashboard Screenshot](https://github.com/binita-roy/Building-a-Retail-Data-Pipeline-and-Visualization/blob/31eb86313a42c0e2f798b3bb41eb79fa419e45ec/dashboard_key%20KPIs_visualizations.PNG)
+![Dashboard Screenshot](https://github.com/binita-roy/Building-a-Retail-Data-Pipeline-and-Visualization/blob/31eb86313a42c0e2f798b3bb41eb79fa419e45ec/dashboard_key_KPIs_visualizations.png)
 
 The dashboard provides a concise overview of Walmart sales data with the following features:
 - **Total Revenue (KPI)**: Displays the overall revenue generated.
